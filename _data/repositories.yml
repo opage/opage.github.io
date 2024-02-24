@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - opage
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
+  - opage/PlayTheGame
+  - opage/sfeirpuppy
   - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax

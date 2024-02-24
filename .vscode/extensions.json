@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "ginfuru.ginfuru-vscode-jekyll-syntax",
-        "dedsec727.jekyll-run"
+        "dedsec727.jekyll-run",
+        "tomoki1207.pdf"
     ]
 }
