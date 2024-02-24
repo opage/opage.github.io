@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://opage.github.io/sitemap.xml
+Sitemap: https://opage.github.io//sitemap.xml
